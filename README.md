@@ -1,4 +1,4 @@
-# Dikshita Bhati's Portfolio
+# My Portfolio
 
 Welcome to my portfolio! Here you can explore my web development projects, skills, and more.
 
